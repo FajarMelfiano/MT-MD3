@@ -94,19 +94,29 @@ global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Done✓',
-    admin: 'This feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
-    group: 'This feature is only for groups!',
-    private: 'This feature is only for private chats!',
-    bot: 'This feature is only for bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    success: '*Done✓*',
+    admin: '╭─֍〔 ıll *ADMIN GROUP* llı 〕֍─
+⬡ Fitur ini hanya tersedia untuk admin grup!!
+╰─────────────────֍',
+    botAdmin: '╭─֍〔 ıll *WARNING* llı 〕֍─
+⬡ Fitur ini tidak dapat work, bot tidak menjadi admin
+╰─────────────────֍',
+    owner: '╭─֍〔 ıll *OWNER* llı 〕֍─
+⬡ Perintah ini hanya untuk *pemilik bot*
+╰─────────────────֍',
+    group: '╭─֍〔 ıll *GROUP* llı 〕֍─
+⬡ Fitur ini hanya dapat digunakan didalam grup!!
+╰─────────────────֍',
+    private: '╭─֍〔 ıll *PRIVATE* llı 〕֍─
+⬡ Fitur ini hanya dapat digunakan diprivate chat
+╰─────────────────֍',
+    bot: '*khusus yang jadi bot*',
+    wait: '*sabar...,orang sabar disayang janda*',
+    linkm: '*Linknya Mana?*',
+    error: '*Error!*',
+    ban: '*kamu diban,mampus,makanya jangan smpam*',
+    nsfw: '*fitur NSFW tidak diaktifkan*',
+    banChat: '*kamu diban,mampus,makanya jangan smpam*'
 }
 global.limitawal = {
     premium: "Infinity",
