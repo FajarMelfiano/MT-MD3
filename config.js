@@ -63,10 +63,10 @@ global.linkz1 = "https://youtu.be/xpd09WhxGA8"
 global.linkz2 = "https://youtu.be/xpd09WhxGA8"
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/20220625_223313.png") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/20220625_223313.png") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/20220625_223313.png") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/20220625_223313.png") //ur thumb pic
 
 //database
 global.ntilinkytvid = []
