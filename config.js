@@ -49,7 +49,7 @@ global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bombdy
 global.botname = "MT-BotzMd" //ur bot name
-global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
+global.websitex = "https://github.com/FajarMelfiano" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker by"
 global.author = "FajarM"
@@ -58,9 +58,9 @@ global.reactmoji = "🐦"
 global.ownertag = ['FajarM'] //ur owner tag
 global.ownernummenu = ['6285748839210'] //ur owner number in menu and all
 global.watermark = "MT-BotzMd" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://youtu.be/xpd09WhxGA8"
-global.linkz2 = "https://youtu.be/xpd09WhxGA8"
+global.botscript = "https://github.com/FajarMelfiano/MT-MD3"
+global.linkz1 = "https://github.com/FajarMelfiano/MT-MD3"
+global.linkz2 = "https://github.com/FajarMelfiano/MT-MD3"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/20220625_223313.png") //ur thumb pic
@@ -132,7 +132,7 @@ global.APIs = {
 
 // key
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': '9c212e50d4',
 }
 //menu logo maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
