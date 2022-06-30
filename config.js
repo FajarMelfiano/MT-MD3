@@ -95,21 +95,11 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: '*Done✓*',
-    admin: '╭─֍〔 ıll *ADMIN GROUP* llı 〕֍─
-⬡ Fitur ini hanya tersedia untuk admin grup!!
-╰─────────────────֍',
-    botAdmin: '╭─֍〔 ıll *WARNING* llı 〕֍─
-⬡ Fitur ini tidak dapat work, bot tidak menjadi admin
-╰─────────────────֍',
-    owner: '╭─֍〔 ıll *OWNER* llı 〕֍─
-⬡ Perintah ini hanya untuk *pemilik bot*
-╰─────────────────֍',
-    group: '╭─֍〔 ıll *GROUP* llı 〕֍─
-⬡ Fitur ini hanya dapat digunakan didalam grup!!
-╰─────────────────֍',
-    private: '╭─֍〔 ıll *PRIVATE* llı 〕֍─
-⬡ Fitur ini hanya dapat digunakan diprivate chat
-╰─────────────────֍',
+    admin: '*Khusus Admin Group*',
+    botAdmin: '*Bot Bukan Admin*',
+    owner: '*Khusus Pemilik Bot*',
+    group: '*Khusus didalam Group*',
+    private: '*Khusus Chat Private*',
     bot: '*khusus yang jadi bot*',
     wait: '*sabar...,orang sabar disayang janda*',
     linkm: '*Linknya Mana?*',
